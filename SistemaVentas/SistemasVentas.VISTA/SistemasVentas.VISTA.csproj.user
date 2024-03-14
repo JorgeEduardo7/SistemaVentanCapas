@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ClienteVistas\ClienteListarVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DetalleIngVistas\DetalleIngListarVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DetalleVentaVistas\DetalleVentaListarVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IngresoVistas\IngresoListarVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MarcaVistas\MarcaListarVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PersonaVistas\PersonaListarVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductoVistas\ProductoListarVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProveedorVistas\ProveedorListarVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProveeVistas\ProveeListarVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RolVistas\RolListarVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TipoProdVistas\TipoProdListarVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UsuarioRolVistas\UsuarioRolListarVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UsuarioVistas\UsuarioListarVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentaVistas\VentaListarVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

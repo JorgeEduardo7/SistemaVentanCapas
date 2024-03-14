@@ -1,0 +1,12 @@
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.Modelos\bin\Debug\net8.0\SistemasVentas.Modelos.deps.json
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.Modelos\bin\Debug\net8.0\SistemasVentas.Modelos.dll
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.Modelos\bin\Debug\net8.0\SistemasVentas.Modelos.pdb
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.Modelos\obj\Debug\net8.0\SistemasVentas.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.Modelos\obj\Debug\net8.0\SistemasVentas.Modelos.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.Modelos\obj\Debug\net8.0\SistemasVentas.Modelos.AssemblyInfo.cs
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.Modelos\obj\Debug\net8.0\SistemasVentas.Modelos.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.Modelos\obj\Debug\net8.0\SistemasVentas.Modelos.sourcelink.json
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.Modelos\obj\Debug\net8.0\SistemasVentas.Modelos.dll
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.Modelos\obj\Debug\net8.0\refint\SistemasVentas.Modelos.dll
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.Modelos\obj\Debug\net8.0\SistemasVentas.Modelos.pdb
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.Modelos\obj\Debug\net8.0\ref\SistemasVentas.Modelos.dll

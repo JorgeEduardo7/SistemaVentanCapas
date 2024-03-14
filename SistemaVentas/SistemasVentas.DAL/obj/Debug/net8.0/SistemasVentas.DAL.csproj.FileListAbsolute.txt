@@ -1,0 +1,13 @@
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.DAL\bin\Debug\net8.0\SistemasVentas.DAL.deps.json
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.DAL\bin\Debug\net8.0\SistemasVentas.DAL.dll
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.DAL\bin\Debug\net8.0\SistemasVentas.DAL.pdb
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.DAL\obj\Debug\net8.0\SistemasVentas.DAL.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.DAL\obj\Debug\net8.0\SistemasVentas.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.DAL\obj\Debug\net8.0\SistemasVentas.DAL.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.DAL\obj\Debug\net8.0\SistemasVentas.DAL.AssemblyInfo.cs
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.DAL\obj\Debug\net8.0\SistemasVentas.DAL.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.DAL\obj\Debug\net8.0\SistemasVentas.DAL.sourcelink.json
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.DAL\obj\Debug\net8.0\SistemasVentas.DAL.dll
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.DAL\obj\Debug\net8.0\refint\SistemasVentas.DAL.dll
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.DAL\obj\Debug\net8.0\SistemasVentas.DAL.pdb
+D:\UNIVERSIDAD\5 SEMESTRE\2 DESARROLLO DE SISTEMAS I\proyectofinal\sistemaventancapas\SistemaVentas\SistemasVentas.DAL\obj\Debug\net8.0\ref\SistemasVentas.DAL.dll
